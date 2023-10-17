@@ -1,3 +1,17 @@
+Author: Joseph Mock
+Email: jmock1881@gmail.com
+Purpose: Simple web server using flask, that looks for files, accounting for errors and handling them
+
+
+
+
+
+
+
+
+
+
+
 # UOCIS322 - Project 2 #
 
 This project will get you started with Docker and Flask. You need to have Docker set up on your machine to complete this project. You can alternatively use the machine we talked about in class.
